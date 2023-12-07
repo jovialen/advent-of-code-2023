@@ -10,3 +10,5 @@ My solutions to the [Advent of Code](https://adventofcode.com/2023) problems.
 | 2   | 2528       | 67363      | 11.53 ms    | 11.77 ms    |
 | 3   | 536202     | 78272573   | 13.79 ms    | 12.72 ms    |
 | 4   | 21213      | 8549735    | 87.19 ms    | 83.97 ms    |
+| 5   | 324724204  | N/A        | 12.18 ms    | N/A         |
+| 6   | 1155175    | 35961505   | 11.54 ms    | 529.58 ms   |
